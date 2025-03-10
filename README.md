@@ -72,6 +72,6 @@ This project is licensed under the MIT License.
 For any queries or suggestions, feel free to reach out at [keshav.mjdm@gmail.com](mailto:keshav.mjdm@gmail.com),.
 
 # AI-Build- Contributors:
-1. [Keshav Mishra] (email- keshav.mjdm@gmail.com)
-2. [Shubham Dave] (email-22ce020@gardividyapith.ac.in)
+1. [Keshav Mishra](mailto:keshav.mjdm@gmail.com)
+2. [Shubham Dave](mailto:22ce020@gardividyapith.ac.in)
 3. Bathula Poojitha (github- poojitha5532)
